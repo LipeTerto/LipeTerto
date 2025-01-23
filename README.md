@@ -1,7 +1,8 @@
 # HELLO WORLD! SOU O FILIPE 🤠🤠
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem+vindo(a)+ao+meu+perfil+do+GitHub!+😁)](https://git.io/typing-svg)
-### - Me chamo Filipe Teixeira - Osasco/SP. Atualmente estudo na Fatec de Osasco cursando Desenvolvimento de Software Multiplataforma.
-### - Embaixador do DIO Campus Expert - Turma 7
+### - Me chamo Filipe Teixeira - Osasco/SP. Atualmente estudo na Fatec de Osasco cursando Desenvolvimento de Software Multiplataforma 👾
+### - Estagiário em Gestão e Desempenho de TI na CSN (Companhia Siderúrgica Nacional) 🥽
+### - Embaixador do DIO Campus Expert - Turma 7 🧠
 ### - Atualmente estudando Banco de Dados, entretanto, meu maior sonho é ser Designer de Games 🎮
 # .
 # .
